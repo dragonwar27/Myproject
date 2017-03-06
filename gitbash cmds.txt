@@ -1,0 +1,105 @@
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ mkdir example
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ cd example
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/example (master)
+$ ls
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/example (master)
+$ cd ..
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ rmdir e
+eclipse/ example/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ rmdir example/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ ls
+'3D Objects'/
+AppData/
+'Application Data'@
+class/
+Contacts/
+Cookies@
+Desktop/
+dir
+Documents/
+Downloads/
+Dropbox/
+eclipse/
+Favorites/
+ibt_application.log
+ibtsa.log
+iCloudDrive/
+IntelGraphicsProfiles/
+Links/
+'Local Settings'@
+Music/
+'My Documents'@
+Myproject/
+NetHood@
+NTUSER.DAT
+ntuser.dat.LOG1
+ntuser.dat.LOG2
+NTUSER.DAT{0419bfaa-85cd-11e6-8a6d-ee7830f25c89}.TxR.0.regtrans-ms
+NTUSER.DAT{0419bfaa-85cd-11e6-8a6d-ee7830f25c89}.TxR.1.regtrans-ms
+NTUSER.DAT{0419bfaa-85cd-11e6-8a6d-ee7830f25c89}.TxR.2.regtrans-ms
+NTUSER.DAT{0419bfaa-85cd-11e6-8a6d-ee7830f25c89}.TxR.blf
+NTUSER.DAT{0419bfab-85cd-11e6-8a6d-ee7830f25c89}.TM.blf
+NTUSER.DAT{0419bfab-85cd-11e6-8a6d-ee7830f25c89}.TMContainer0000000000000.regtrans-ms
+NTUSER.DAT{0419bfab-85cd-11e6-8a6d-ee7830f25c89}.TMContainer0000000000000.regtrans-ms
+ntuser.ini
+oasys.log
+OneDrive/
+Pictures/
+PrintHood@
+Recent@
+Roaming/
+'Saved Games'/
+Searches/
+SendTo@
+'Start Menu'@
+summary.txt
+Templates@
+Tracing/
+Videos/
+'VirtualBox VMs'/
+workspace/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ cd Desktop/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/Desktop (master)
+$ ls
+'~$gorithm hw1.docx'                         'Eclipse Java Neon.lnk'*
+'~$gorithms hw3.docx'                        'gitbash cmds.txt'
+'~$gorithms5.docx'                           html/
+'~$oject Proposal.docx'                      IMG_3097.JPG
+'~$twork Technologies assignment 2.docx'     'nokia n8.jar'
+'~$w edited resume.docx'                     'Removed Apps.html'
+1.webm                                       Resume.docx
+'Avast Antivirus 9-2014-Final+Serial-2095'/  Slack.lnk*
+desktop.ini                                  swetha/
+DSC_0082.jpg                                 VN-20150802-WA0005.aac
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/Desktop (master)
+$ cp gitbash\ cmds.txt  html/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/Desktop (master)
+$ cd ..
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ cp Desktop/gitbash\ cmds.txt Documents/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ cd Documents/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~/Documents (master)
+$ ls
+cache/       'gitbash cmds.txt'  'My Pictures'@  'Visual Studio 2013'/
+desktop.ini  'My Music'@         'My Videos'@
+
