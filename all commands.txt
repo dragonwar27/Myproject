@@ -1,0 +1,414 @@
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ stat bash
+  File: 'bash'
+  Size: 0               Blocks: 0          IO Block: 65536  regular empty file
+Device: c4cf2099h/3301908633d   Inode: 26740122787516586  Links: 1
+Access: (0644/-rw-r--r--)  Uid: (197610/Kalluchi Tejaswini)   Gid: (197610/ UNKNOWN)
+Access: 2017-03-05 20:10:29.286490700 -0600
+Modify: 2017-03-05 20:10:29.286490700 -0600
+Change: 2017-03-05 20:10:29.277575500 -0600
+ Birth: 2017-03-05 20:10:29.277575500 -0600
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ traceroute facebook.com
+bash: traceroute: command not found
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ tracert facebook.com
+
+Tracing route to facebook.com [2a03:2880:f111:83:face:b00c:0:25de]
+over a maximum of 30 hops:      2601:940:c001:a90e:250:f1ff:fe80:0
+  2
+  1   291 ms     2 ms     2 ms
+
+
+               820 ms   410 ms  2001:558:4063:3::1
+
+  3   171 ms   249 ms   201 ms  te0-1-0-7-sur02.tuscaloosa.al.tusca.comcast.net [2001:558:172:4::1]
+  4    81 ms    89 ms    88 ms  te-3-3-ur01.florence.al.hunts.comcast.net [2001:558:350:11::1]
+  5    77 ms    84 ms   100 ms  2001:558:140:15::1
+  6   100 ms   124 ms   120 ms  be-7725-cr02.56marietta.ga.ibone.comcast.net [2001:558:0:f75f::1]
+  7   108 ms   117 ms   119 ms  hu-0-13-0-1-pe03.56marietta.ga.ibone.comcast.net [2001:558:0:f518::2]
+  8   204 ms   204 ms   306 ms  2001:559::22
+  9   114 ms   305 ms   201 ms  po102.psw01b.atl3.tfbnw.net [2620:0:1cff:dead:bef0::a7]
+ 10    93 ms    97 ms    83 ms  po2.msw1ae.01.atl3.tfbnw.net [2a03:2880:f011:ffff::13d]
+ 11   255 ms   203 ms   202 ms  edge-star-mini6-shv-01-atl3.facebook.com [2a03:2880:f111:83:face:b00c:0:25de]
+
+Trace complete.
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ du Downloads/
+2283    Downloads/CS699AL_Kchallagundla_Final Project
+2841    Downloads/documents/teja documents
+3447    Downloads/documents
+697940  Downloads/material
+7140    Downloads/music and rndm
+28552   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Access.en-us/Access.en-us
+29056   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Access.en-us
+2888    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/de-de
+2732    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/en-us
+2896    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/es-es
+2892    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/fr-fr
+2924    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/it-it
+2496    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/ja-jp
+2512    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/ko-kr
+2396    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/zh-cn
+2376    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin/zh-tw
+27356   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Admin
+1296    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Catalog
+287852  Downloads/Office 2K7-20161008T033239Z/Office 2K7/Enterprise.WW
+15312   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Excel.en-us
+3928    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Groove.en-us/Groove.en-us
+4432    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Groove.en-us
+28132   Downloads/Office 2K7-20161008T033239Z/Office 2K7/InfoPath.en-us
+108     Downloads/Office 2K7-20161008T033239Z/Office 2K7/Office.en-us/1033
+32140   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Office.en-us
+1008    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Office64.en-us
+31900   Downloads/Office 2K7-20161008T033239Z/Office 2K7/OneNote.en-us
+16700   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Outlook.en-us
+14724   Downloads/Office 2K7-20161008T033239Z/Office 2K7/PowerPoint.en-us
+22380   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Proofing.en-us/Proof.en
+16580   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Proofing.en-us/Proof.es
+11724   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Proofing.en-us/Proof.fr
+51192   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Proofing.en-us
+12308   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Publisher.en-us
+1608    Downloads/Office 2K7-20161008T033239Z/Office 2K7/Rosebud.en-us
+1       Downloads/Office 2K7-20161008T033239Z/Office 2K7/Updates
+16636   Downloads/Office 2K7-20161008T033239Z/Office 2K7/Word.en-us
+572118  Downloads/Office 2K7-20161008T033239Z/Office 2K7
+572118  Downloads/Office 2K7-20161008T033239Z
+391148  Downloads/Pics/set up files
+398676  Downloads/Pics
+17160   Downloads/QA/selenium-java-3.1.0/lib
+18501   Downloads/QA/selenium-java-3.1.0
+55049   Downloads/QA
+3370588 Downloads/setup files
+5241348 Downloads/
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ df Documents/
+Filesystem     1K-blocks     Used Available Use% Mounted on
+C:             104373340 82242956  22130384  79% /c
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ less Desktop/html/gitbash\ cmds.txt
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ uname Desktop/
+uname: extra operand ‘Desktop/’
+Try 'uname --help' for more information.
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ uname -p
+unknown
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ uname -n
+Tejaswini
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ uname -s
+MINGW64_NT-10.0
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ uname -o
+Msys
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ ps -ef
+     UID     PID    PPID  TTY        STIME COMMAND
+Kalluchi    9400    4236 pty0     22:19:38 /usr/bin/ps
+Kalluchi   11628       1 ?        22:16:52 /usr/bin/mintty
+Kalluchi    4236   11628 pty0     22:16:52 /usr/bin/bash
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ more -c
+bash: more: command not found
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+Non-authoritative answer:
+Server:  cdns01.comcast.net
+Address:  2001:558:feed::1
+
+Name:    microsoft.com
+Addresses:  191.239.213.197
+          104.40.211.35
+          104.43.195.251
+          23.100.122.175
+          23.96.52.53
+
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ ls | more
+bash: more: command not found
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ history
+    1  whoami
+    2  whichgit
+    3  which git
+    4  vigrant
+    5  vagrant -v
+    6  clear
+    7  mkdir class
+    8  GitHub
+    9  -la
+   10  --la
+   11  vagrant -ls
+   12  a
+   13  -la
+   14  ls -la
+   15  vi test.sh
+   16  vagrant --
+   17  dir
+   18  dir
+   19  cd..
+   20  cd..
+   21  mkfir
+   22  mkdir
+   23  vagrant--
+   24  - vagrant --
+   25   vagrant --
+   26  --help
+   27  mkdir --help
+   28  cd
+   29  c
+   30  c/
+   31  c/users
+   32  pwd
+   33  kalluchi Tejaswini/gitrepository
+   34  kalluchi Tejaswini
+   35  cd
+   36  cd kalluchi Tejaswini/gitrepository
+   37  cd kalluchi Tejaswini/gitrepository
+   38  pwd
+   39  git clone https://github.com/dragonwar27/newrepository.git
+   40  git config --global user.name
+   41  git config --global user.email
+   42  git init
+   43  git status
+   44  git commit
+   45  dir
+   46  git status
+   47  ls
+   48  mv
+   49  ls
+   50  cp
+   51  git add -A
+   52  git log
+   53  git commit
+   54  git rm
+   55  git commit
+   56  ls
+   57  ls
+   58  get init
+   59  git init
+   60  git init newrepository
+   61  cd newrepository
+   62  git read.txt
+   63  git --help
+   64  git readme.txt
+   65  git README.txt
+   66  git README.md
+   67  Visual Studio Code README.md
+   68  Visual README.md
+   69  git config
+   70  git clone https://github.com/dragonwar27/newrepository.git
+   71  git init
+   72  ls
+   73  git status
+   74  git diff
+   75  git diff
+   76  git status
+   77  git add newrepository
+   78  git status
+   79  git commit
+   80  ls
+   81  git init
+   82  git newrepository
+   83  git clone https://github.com/dragonwar27/newrepository.git
+   84  git status
+   85  cd test
+   86  ls
+   87  git init
+   88  git clone https://github.com/dragonwar27/newrepository.git
+   89  git init
+   90  ls
+   91  git init
+   92  git clone https://github.com/dragonwar27/newrepository.git
+   93  git init
+   94  ls
+   95  git status
+   96  git init
+   97  git clone https://github.com/dragonwar27/newrepository.git
+   98  pwd
+   99  ls
+  100  git --version
+  101  git config --global user.name
+  102  git config --global user.email
+  103  git config --list
+  104  git help config
+  105   git init
+  106  ls
+  107   git init
+  108  git clone https://github.com/dragonwar27/project.git
+  109  git init
+  110  ls
+  111  pwd
+  112  clear
+  113  git init
+  114  git cinfig
+  115  git config
+  116  git init
+  117  ls
+  118  git clonehttps://github.com/dragonwar27/Myproject.git
+  119  git clone https://github.com/dragonwar27/Myproject.git
+  120  git init
+  121  ls
+  122  git init
+  123  git clone https://github.com/dragonwar27/Myproject.git
+  124  git Myproject
+  125  git Myproject
+  126  ls -la
+  127  git init
+  128  git add --help
+  129  ls
+  130  ls -la
+  131  rm -rf .git
+  132  ls -la
+  133  git init
+  134  ls -la
+  135  git status
+  136  ls -la
+  137  mv
+  138  ls
+  139  cp
+  140  mv
+  141  mkdir
+  142  mkdir example
+  143  cd example
+  144  ls
+  145  cd ..
+  146  rmdir example/
+  147  ls
+  148  cd Desktop/
+  149  ls
+  150  cp gitbash\ cmds.txt  html/
+  151  cd ..
+  152  cp Desktop/gitbash\ cmds.txt Documents/
+  153  cd Documents/
+  154  ls
+  155  rm gitbash\ cmds.txt
+  156  ls
+  157  cd ..
+  158  mv Desktop/gitbash\ cmds.txt Documents/
+  159  cd Desktop/
+  160  ls
+  161  cd ..
+  162  cd Documents/
+  163  ls
+  164  pwd
+  165  cat gitbash\ cmds.txt
+  166  cd ..
+  167  ls
+  168  cd Myproject/
+  169  cat
+  170  cd
+  171  cp Documents/gitbash\ cmds.txt Myproject/
+  172  cd Myproject/
+  173  ls
+  174  git status
+  175  git add gitbash\ cmds.txt
+  176  git commit -m "my commands"
+  177  git push
+  178  git pull
+  179  git status
+  180  git push
+  181  cd
+  182  history
+  183  ifconfig
+  184  ifconfig
+  185  ifconfig -a
+  186  tail -2
+  187  history
+  188  touch bash
+  189  stat bash
+  190  traceroute facebook.com
+  191  tracert facebook.com
+  192  telnet[\remoteServer]
+  193  telnet[\RemoteServer]
+  194  telnet>
+  195  telnet 64.233.189.147
+  196  telnet 73.58.10.2
+  197  telnet 192.168.0.10
+  198  top
+  199  top -v
+  200  du html.txt
+  201  du html
+  202  du Desktop/
+  203  du -a
+  204  du Desktop/
+  205  du Downloads/
+  206  ifconfig -a
+  207  ifconfig -v
+  208  ifconfig eth0
+  209  ifconfig etho
+  210  ifconfig
+  211  ifconfig wlan1
+  212  less Documents/
+  213  less html
+  214  less Documents/
+  215  less Downloads/Resume_2.docx
+  216  less Desktop/html/
+  217  less Desktop/html/google.html
+  218  hisory
+  219  history
+  220  stat bash
+  221  traceroute facebook.com
+  222  tracert facebook.com
+  223  telnet 192.168.0.10
+  224  du Downloads/
+  225  df Documents/
+  226  less Desktop/html/gitbash\ cmds.txt
+  227  uname Desktop/
+  228  uname Local\ Settings/
+  229  uname --help
+  230  uname -n
+  231  uname -s
+  232  uname -v
+  233  uname -p
+  234  uname -o
+  235  more Desktop/html/function.html
+  236  ps -ef
+  237  ps -ef|more
+  238  ps -ef | more
+  239  more -c
+  240  more Desktop/
+  241  more -d
+  242  ls |more
+  243  ls | more
+  244  nslookup microsoft.com
+  245  history
+  246  stat bash
+  247  traceroute facebook.com
+  248  tracert facebook.com
+  249  du Downloads/
+  250  df Documents/
+  251  less Desktop/html/gitbash\ cmds.txt
+  252  uname Desktop/
+  253  uname -p
+  254  uname -n
+  255  uname -s
+  256  uname -o
+  257  ps -ef
+  258  more -c
+  259  nslookup microsoft.com
+  260  ls | more
+  261  history
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$ ^C
+
+Kalluchi Tejaswini@Tejaswini MINGW64 ~ (master)
+$
